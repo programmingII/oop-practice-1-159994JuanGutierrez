@@ -1,4 +1,6 @@
-//Nombre: Juan Pablo Gutierrez Ceballos Fecha:2/14/2019 Hora:7:32a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos 
+//Fecha:2/14/2019 
+//Hora:7:32a.m.
 
 //Agregaremos una libreria para poder utilizar el Scanner
 import java.util.Scanner;
