@@ -1,4 +1,6 @@
-//Juan Pablo Gutierrez Ceballos 2/6/2019 2:43a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/6/2019
+//Hora: 2:43
 
 public class Ejercicio13_Rectangulo
 {
