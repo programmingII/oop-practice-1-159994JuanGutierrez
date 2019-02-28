@@ -1,4 +1,5 @@
-// Juan Pablo Gutierrez Ceballos 12:35
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Hora: 12:35
 
 public class Ejercicio1_Helloworld
 {
