@@ -1,4 +1,6 @@
-//Juan Pablo Gutierrez Ceballos 2/6/2019 2:53a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/6/2019
+//Hora: 2:53
 
 public class Ejercicio14_Bandera
 {
