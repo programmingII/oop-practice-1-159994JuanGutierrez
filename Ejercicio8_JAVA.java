@@ -1,4 +1,6 @@
-//Juan Pablo Gutierrez Ceballo 2/6/2019 2:00a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/6/2019
+//Hora: 2:00
 
 public class Ejercicio8_JAVA
 {
