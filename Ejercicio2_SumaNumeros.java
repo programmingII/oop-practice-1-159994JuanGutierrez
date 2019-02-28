@@ -1,4 +1,6 @@
-// Juan Pablo Gutierrez Ceballos 2/5/2019 6:24
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/5/2019
+//Hora: 6:24
 
 public class Ejercicio2_SumaNumeros
 {
