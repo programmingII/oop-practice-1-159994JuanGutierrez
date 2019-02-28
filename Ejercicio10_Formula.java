@@ -1,4 +1,6 @@
-//Juan Pablo Gutierrez Ceballos 2/6/2019 2:20a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/6/2019
+//Hora: 2:20
 
 public class Ejercicio10_Formula
 {
