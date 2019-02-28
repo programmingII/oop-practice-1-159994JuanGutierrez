@@ -1,4 +1,6 @@
-//Juan Pablo Gutierrez Ceballos 2/6/2019 1:45a.m.
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/6/2019
+//Hora: 1:45
 
 import java.util.Scanner;
 
