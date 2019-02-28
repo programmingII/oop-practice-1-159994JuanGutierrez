@@ -1,5 +1,6 @@
-//Juan Pablo Gutierrez Ceballos 2/5/2019 6:36
-
+//Nombre: Juan Pablo Gutierrez Ceballos
+//Fecha: 2/5/2019
+//Hora: 6:36
 public class Ejercicio3_DivisionNumeros
 {
 
